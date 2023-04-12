@@ -2,7 +2,7 @@
 
 Sou apaixonado por programação e cibersegurança e atualmente estou no primeiro semestre do curso de Análise e Desenvolvimento de Sistemas (ADS). Atualemnte trabalhando como militar da ativa.
 
-- 🔭 Altamente interessado por cibersegurança.
+- 🔭 Interessado por cibersegurança.
 - 💻 Estudando Python e DevOps.
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
