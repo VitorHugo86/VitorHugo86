@@ -1,6 +1,6 @@
 ### Olá, sou o Vitor Hugo 👋
 
-Sou apaixonado por programação e cibersegurança e atualmente estou no primeiro semestre do curso de Análise e Desenvolvimento de Sistemas (ADS). Atualemnte trabalhando como militar da ativa.
+Sou apaixonado por programação e cibersegurança e atualmente estou no primeiro semestre do curso de Análise e Desenvolvimento de Sistemas (ADS). Atualmente trabalhando como militar da ativa.
 
 - 🔭 Interessado por cibersegurança.
 - 💻 Estudando Python e DevOps.
