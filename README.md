@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, sou o Vitor Hugo 👋
 
-<!--
-**VitorHugo86/VitorHugo86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por programação e cibersegurança e atualmente estou no primeiro semestre do curso de Análise e Desenvolvimento de Sistemas (ADS). Atualemnte trabalhando como militar da ativa.
 
-Here are some ideas to get you started:
+- 🔭 Altamente interessado por cibersegurança.
+- 💻 Estudando Python e DevOps.
+- 🖥️ Atualmente mais focado em:
+<div style="display: inline">
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode me encontrar em:
+
+<a href="https://www.linkedin.com/in/vitor-hugo86/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+
+          
