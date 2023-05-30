@@ -3,11 +3,12 @@
 Sou apaixonado por programação e cibersegurança e atualmente estou no primeiro semestre do curso de Análise e Desenvolvimento de Sistemas (ADS). Atualmente trabalhando como militar da ativa.
 
 - 🔭 Interessado por cibersegurança.
-- 💻 Estudando Python e DevOps.
-- 🖥️ Atualmente mais focado em:
+- 💻 Estudando Python e Back-end.
+- 🖥️ Atualmente focado em:
 <div style="display: inline">
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 </div>
 
 ### Você pode me encontrar em:
