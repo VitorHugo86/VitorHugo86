@@ -7,7 +7,7 @@ Sou apaixonado por programação e cibersegurança e atualmente estou no primeir
 - 🖥️ Atualmente focado em:
 <div style="display: inline">
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 </div>
 
