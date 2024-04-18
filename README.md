@@ -1,4 +1,4 @@
-## Olá 👋
+## Hello 👋
 
 <!--
 **SeuNome/SeuNome** é um ✨ _repositório especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
@@ -15,8 +15,8 @@ Aqui estão algumas ideias para começar:
 - ⚡ Curiosidade: ...
 -->
 
-### Eu sou Vitor Hugo
-
+### I am Vitor Hugo
+I'm a cybersecurity student with a strong foundation in scripting languages like SHELLSCRIPT and PYTHON. Alongside my theoretical knowledge in information security and network security, I bring two years of experience from the Brazilian Army, with a year dedicated to IT operations.
 Pentester | Ethical Hacker | Hack is not a crime
 
 <br>
