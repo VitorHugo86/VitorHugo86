@@ -16,8 +16,8 @@ Aqui estão algumas ideias para começar:
 -->
 
 ### I am Vitor Hugo
-I'm a cybersecurity student with a strong foundation in scripting languages like SHELLSCRIPT and PYTHON. Alongside my theoretical knowledge in information security and network security, I bring two years of experience from the Brazilian Army, with a year dedicated to IT operations.
-Pentester | Ethical Hacker | Hack is not a crime
+I'm a cybersecurity student with a strong foundation in scripting languages like SHELLSCRIPT and PYTHON. I focus on network security, penetration testing, and threat analysis. My knowledge extends to cryptographic protocols, secure coding practices, and implementing defensive measures to protect digital assets. Additionally, I stay updated on emerging technologies and industry best practices to adapt and strengthen cyber defenses against evolving threats. <br>
+Currently studying for the Security+ certification to further solidify my expertise in cybersecurity.
 
 <br>
 
