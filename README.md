@@ -1,22 +1,45 @@
-<div align="center">
-  <img src="53jt.gif" width="100%">
+## Olá 👋
+
+<!--
+**SeuNome/SeuNome** é um ✨ _repositório especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
+
+Aqui estão algumas ideias para começar:
+
+- 🔭 Atualmente estou trabalhando em ...
+- 🌱 Atualmente estou aprendendo ...
+- 👯 Estou procurando colaborar em ...
+- 🤔 Estou procurando ajuda com ...
+- 💬 Pergunte-me sobre ...
+- 📫 Como me contatar: ...
+- 😄 Pronomes: ...
+- ⚡ Curiosidade: ...
+-->
+
+### Eu sou Vitor Hugo
+
+Pentester | Ethical Hacker | Hack is not a crime
+
+<br>
+
+<img src="53jt.gif" width="600">
+
+</br>
+
+[![VitorHugo86 GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorHugo86&theme=dark)](https://github.com/VitorHugo86/github-readme-stats)
+
+💻 Pentester.
+
+🏠 I'm from Brazil.
+
+📚 I'm currently learning everything about IT and Security.
+
+## Social Networks
+
+<div style="display: inline; gap: 20px;">
+    <a href="https://github.com/VitorHugo86"><img width='120' height='40' src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/vitor-hugo86"><img width='120' height='40' src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </div>
 
-### Olá, sou o Vitor Hugo 👋
+## Programming Languages
 
-
-### Áreas de interesse:
-- 🔒 Cibersegurança
-- 🛡️ Segurança da Informação
-- 🚀 Desenvolvimento Seguro de Aplicações
-
-<div style="display: inline">
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-</div>
-### Você pode me encontrar em:
-
-<a href="https://www.linkedin.com/in/vitor-hugo86/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-          
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorHugo86&langs_count=8)](https://github.com/VitorHugo86/github-readme-stats)
