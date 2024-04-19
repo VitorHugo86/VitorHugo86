@@ -25,7 +25,7 @@ Currently studying for the Security+ certification to further solidify my expert
 
 </br>
 
-[![VitorHugo86 GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorHugo86&theme=dark)](https://github.com/VitorHugo86/github-readme-stats)
+[![VitorHugo86 GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorHugo86&show_icons=true&theme=dark)](https://github.com/VitorHugo86/github-readme-stats)
 
 💻 Pentester.
 
@@ -40,6 +40,3 @@ Currently studying for the Security+ certification to further solidify my expert
     <a href="https://www.linkedin.com/in/vitor-hugo86"><img width='120' height='40' src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </div>
 
-## Programming Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorHugo86&langs_count=8)](https://github.com/VitorHugo86/github-readme-stats)
