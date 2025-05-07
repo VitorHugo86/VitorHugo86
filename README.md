@@ -27,8 +27,6 @@ Currently studying for the Security+ certification to further solidify my expert
 
 [![VitorHugo86 GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorHugo86&show_icons=true&theme=dark)](https://github.com/VitorHugo86/github-readme-stats)
 
-💻 Pentester.
-
 🏠 I'm from Brazil.
 
 📚 I'm currently learning everything about IT and Security.
